@@ -1,12 +1,13 @@
 {
-  "name": "geoip-lite-country",
+  "name": "geoip-lite-country-ipv4-ipv6",
   "version": "1.1.5",
-  "description": "Stripped down version of geoip-lite, supporting only country lookup.",
+  "description": "geoip-lite-country supporting only country lookup, with IPv4 and IPv6 data.",
   "keywords": [
     "geo",
     "geoip",
     "ip",
     "ipv4",
+    "ipv6",
     "geolookup",
     "maxmind",
     "geolite",
@@ -23,7 +24,7 @@
   "main": "lib/geoip.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/arve0/node-geoip-country.git"
+    "url": "git://github.com/checkraiseinc/node-geoip-country.git"
   },
   "engines": {
     "node": ">=0.6.3"
