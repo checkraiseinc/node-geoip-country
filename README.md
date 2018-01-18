@@ -1,9 +1,9 @@
 GeoIP-lite-country
 ==================
 
-Stripped down node-geoip-lite. Only supports country lookup and IPv4.
+Stripped down node-geoip-lite. Only supports country lookup, both IPv4 and IPv6.
 
-Software is written by Philip Tellis <philip@bluesmoon.info>, latest version is available at https://github.com/bluesmoon/node-geoip 
+Software is written by Philip Tellis <philip@bluesmoon.info>, latest version is available at https://github.com/bluesmoon/node-geoip
 
 
 synopsis
