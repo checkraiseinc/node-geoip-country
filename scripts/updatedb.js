@@ -32,6 +32,11 @@ type: 'country',
           url: 'https://geolite.maxmind.com/download/geoip/database/GeoIPCountryCSV.zip',
           src: 'GeoIPCountryWhois.csv',
           dest: 'geoip-country.dat'
+}, {
+  type: 'country',
+  url: 'https://geolite.maxmind.com/download/geoip/database/GeoIPv6.csv.gz',
+  src: 'GeoIPv6.csv',
+  dest: 'geoip-country6.dat'
 }];
 
 function mkdir(name) {
